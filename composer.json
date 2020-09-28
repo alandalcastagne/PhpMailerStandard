@@ -1,0 +1,6 @@
+{
+    "name": "alan/standardphpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
